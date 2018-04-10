@@ -1,0 +1,7 @@
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\bin\Debug\Lab1.exe
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\obj\Debug\Lab1.exe
+C:\Users\Otas\Desktop\test\Algoritmu-sudarymo-ir-analizes-laboratoriniai-darbai\Lab1\obj\Debug\Lab1.pdb

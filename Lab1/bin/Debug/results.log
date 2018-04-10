@@ -1,0 +1,42 @@
+ RadixSort: Array in disk                 4096               0         0                  3954 16
+ RadixSort: Array in disk                 4096               0         0                  3693 16
+ RadixSort: Array in RAM                  4096               0         0                   803 16
+ RadixSort: Array in RAM                  4096               0         0                     9 16
+ RadixSort: Array in RAM                  4096               0         0                    11 16
+ RadixSort: Array in RAM                  4096               0         0                    10 16
+ RadixSort: Array in RAM                  4096               0         0                    10 16
+ RadixSort: Array in RAM                  4096               0         0                  1522 16
+ RadixSort: Array in RAM                  4096               0         0                    12 16
+ RadixSort: Array in RAM                  4096               0         0                 29983 16
+ RadixSort: Array in RAM                  4096               0         0                  3820 16
+ RadixSort: Array in RAM                  4096               0         0                    10 16
+ RadixSort: Array in RAM                  4096               0         0                    15 16
+ RadixSort: Array in RAM                  4096               0         0                    10 16
+ RadixSort: Array in RAM                  4096               0         0                     9 16
+ RadixSort: Array in RAM                  4096               0         0                 24392 16
+ RadixSort: Array in RAM                  4096               0         0                 19127 16
+ RadixSort: Array in RAM                     4               0         0                 37312 16
+ RadixSort: Array in disk                    4               0         0                  3199 16
+ RadixSort: Array in disk                    4               0         0                  3199 16
+ RadixSort: Array in disk                    4               0         0                  3176 16
+ RadixSort: Array in disk                    4               0         0                  3247 16
+ RadixSort: Array in disk                    4               0         0                  3189 16
+ RadixSort: Array in disk                    4                  3192 16
+ RadixSort: Array in disk                    4                  3331 16
+ RadixSort: Array in disk                    4                  3195 16
+ RadixSort: Array in disk                    4                  3173 16
+ RadixSort: Array in disk                    4                  3259 16
+ RadixSort: Array in disk                    4                  3243 16
+ RadixSort: Array in disk                    4                  3297 16
+ RadixSort: Array in disk                    4                  3288 16
+ RadixSort: Array in disk                  120                  3206 16
+ RadixSort: Array in disk                  480                  3206 16
+ RadixSort: Array in disk                 1920                  3342 16
+ RadixSort: Array in disk                 7680                  3891 16
+ RadixSort: Array in disk                30720                  6210 16
+ RadixSort: Array in disk               122880                 15537 16
+ SelectionSort: Array in RAM              1024                     7   
+ SelectionSort: Array in RAM              2048                    28   
+ SelectionSort: Array in RAM              4096                   111   
+ SelectionSort: Array in RAM              8192                   577   
+ SelectionSort: Array in RAM             16384                  1758   
